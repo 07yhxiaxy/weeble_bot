@@ -18,8 +18,8 @@ Steps to do to use this repo:</br>
 &emsp;First, start ssh-agent by typing "eval $(ssh-agent)";</br>
 &emsp;Second, add priv key by typing "ssh-add ~/.ssh/"name of private key file"</br>
 7. You should be all set for version control on git and Github. Try making minor changes to this README file and push it by typing:</br>
-&emsp;1. "git add ." (add all files under this directory)</br>
-&emsp;2. "git commit -m "whatever you want to say, this is a commit message used to document what you did. TYPE WITH QUOTATION MARK!"</br>
+&emsp;1. "git add ." (this adds all files under this directory to keep track of)</br>
+&emsp;2. <git commit -m "whatever you want to say, this is a commit message used to document what you did. TYPE WITH QUOTATION MARK!"></br>
 &emsp;3. "git push origin main" or simply "git push"</br>
 &emsp;Note: you can check the file status by typing "git status"</br>
 
