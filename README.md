@@ -1,4 +1,4 @@
-# weeble_bot
+# Weeble_Bot
 Independent Study in UW-Madison with Professor Peter Adamczyk focusing on new bipedal robotic configuration.
 <br>Team Members: (Ahphabetic)</br>
 &emsp;Alli Willhite</br>
@@ -17,7 +17,7 @@ Steps to do to use this repo:</br>
 6. Add private key to your linux machine.</br>
 &emsp;First, start ssh-agent by typing "eval $(ssh-agent)";</br>
 &emsp;Second, add priv key by typing "ssh-add ~/.ssh/"name of private key file"</br>
-7. You should be all set for version control on git and Github. Try making minor changes to this README file and push it by typing:
+7. You should be all set for version control on git and Github. Try making minor changes to this README file and push it by typing:</br>
 &emsp;1. "git add ." (add all files under this directory)</br>
 &emsp;2. "git commit -m "whatever you want to say, this is a commit message used to document what you did. TYPE WITH QUOTATION MARK!"</br>
 &emsp;3. "git push origin main" or simply "git push"</br>
