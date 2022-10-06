@@ -1,8 +1,7 @@
 # weebot_bot
 Independent Study in UW-Madison with Professor Peter Adamczyk focusing on new bipedal robotic configuration.
-
-Team Members: (Ahphabetic)
-<br>Alli Willhite</br>
-<br>Charles Qi</br>
-<br>Mark Xia</br>
-<br>Vasvi Agarwal</br>
+&emsp;Team Members: (Ahphabetic)</br>
+&emsp;Alli Willhite</br>
+&emsp;Charles Qi</br>
+&emsp;Mark Xia</br>
+&emsp;Vasvi Agarwal</br>
