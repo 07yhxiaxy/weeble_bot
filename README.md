@@ -5,3 +5,12 @@ Independent Study in UW-Madison with Professor Peter Adamczyk focusing on new bi
 &emsp;Charles Qi</br>
 &emsp;Mark Xia</br>
 &emsp;Vasvi Agarwal</br>
+
+Steps to learn ROS (borrowed from ECE/ME 439 by Professor Peter Adamczyk):
+	----------------ELEMENTARY STUFF----------------</br>
+	1. Understand how ROS made modular programming possible</br>
+	2. Understand ROS nodes, topics, and messages</br>
+	3. Understand ROS publisher and subscriber</br>
+	----------------INTERMEDIATE STUFF--------------</br>
+	4. rosbag, rospaunch, rosparam, rqt_graph, rqt_plot, topic remapping</br>
+	5. custom messages, ROS networking, using sensors to control motors
