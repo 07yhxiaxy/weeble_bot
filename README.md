@@ -6,7 +6,7 @@ Independent Study in UW-Madison with Professor Peter Adamczyk focusing on new bi
 &emsp;Mark Xia</br>
 &emsp;Vasvi Agarwal</br>
 
-Steps to learn ROS (borrowed from ECE/ME 439 by Professor Peter Adamczyk):
+Steps to learn ROS (borrowed from ECE/ME 439 by Professor Peter Adamczyk):</br>
 	----------------ELEMENTARY STUFF----------------</br>
 	1. Understand how ROS made modular programming possible</br>
 	2. Understand ROS nodes, topics, and messages</br>
