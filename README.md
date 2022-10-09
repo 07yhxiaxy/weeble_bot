@@ -33,4 +33,7 @@ Steps to learn ROS (borrowed from ECE/ME 439 by Professor Peter Adamczyk):</br>
 	5. custom messages, ROS networking, using sensors to control motors
 # ROS Tutorial. Be sure to check all topics
 Reference links:</br>
-	http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes
+	http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes</br>
+	
+NOTE: PLEASE CHANGE THE FIRST LINE OF talker.py AND listener.py to #!/usr/bin/env python3 INSTEAD OF #!/usr/bin/env python3</br>
+THIS IS BECAUSE ROS NOETIC USES PYTHON 3 INSTEAD OF PYTHON 2 BY DEFAULT!</br>
