@@ -35,5 +35,5 @@ Steps to learn ROS (borrowed from ECE/ME 439 by Professor Peter Adamczyk):</br>
 Reference links:</br>
 	http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes</br>
 	
-NOTE: PLEASE CHANGE THE FIRST LINE OF talker.py AND listener.py to #!/usr/bin/env python3 INSTEAD OF #!/usr/bin/env python3</br>
-THIS IS BECAUSE ROS NOETIC USES PYTHON 3 INSTEAD OF PYTHON 2 BY DEFAULT!</br>
+NOTE: PLEASE CHANGE THE FIRST LINE OF talker.py AND listener.py to #!/usr/bin/env python3 INSTEAD OF #!/usr/bin/env python</br>
+This is because we will use python3 to develop the robot in the future and ROS Noetic uses python3 by default</br>
