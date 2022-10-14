@@ -1,4 +1,4 @@
-# Weeble_Bot Description and Members
+# Weeble_Bot package Description and Members
 Independent Study in UW-Madison with Professor Peter Adamczyk focusing on new bipedal robotic configuration.
 <br>Team Members: (Ahphabetic)</br>
 &emsp;Alli Willhite</br>
